@@ -1,0 +1,5 @@
+Abra index.html para visualizar a página.
+Para hospedar, envie index.html e as pastas assets e br mantendo a estrutura.
+Starter: R$ 49,90 — https://pay.cakto.com.br/jrtbasv_1200583
+Pro: R$ 99,90 — https://pay.cakto.com.br/aox75id_1200593
+As bibliotecas de animação externas precisam de internet.
